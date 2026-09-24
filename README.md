@@ -1,11 +1,8 @@
 # Bem-vindo!
  
-## Eu sou o Cicero Gabriel!
+## Eu sou o Cicero Cardoso!
  
-:computer: Estudante de Engenharia da Computação na UEMA e Estagiário de TI no CTIC!
-:house_with_garden: Sou de São Luís, Maranhão, Brasil.
-:books: Atualmente estou aprendendo Machine Learning, Análise de Dados e Sistemas Embarcados.
-:outbox_tray: Metas para 2026: Finalizar meu TCC (AUDITOR-MA) e continuar desenvolvendo soluções open-source.
+:computer: Estudante de Engenharia da Computação na Universidade Estadual do Maranhão
  
 ## Sobre mim
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/cicerodesousacardoso)](https://github.com/cicerodesousacardoso)
